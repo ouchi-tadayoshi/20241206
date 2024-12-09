@@ -7,78 +7,89 @@ header{
 }
 .logo {
     position: absolute;
-    min-width: none;
-    left: 3.4rem;
-    top: 5%;
+    width: 10%;
+    max-width: 50%;
+    left:3%;
+    top: -2%;
     color: #a387ea;
 }
 .p {
     width: 100%;
-    min-width: none;
 }
 
 .down {
     position: absolute;
-    top: 20%;
+    width: 10%;
+    top: 15%;
     right: 5rem;
 }
 
 .home {
     position: absolute;
-    top: 25%;
-    left: 30rem;
+    font-size: 1.2vw;
+    top: 19%;
+    right: 50rem;
     color: #a387ea;
-    font-size: 20px;
+    
 }
 .chara {
     position: absolute;
-    top: 25%;
-    left: 40rem;
+    font-size: 1.2vw;
+    top: 19%;
+    right: 42rem;
     color: #a387ea;
-    font-size: 20px;
+    
 }
 .version {
     position: absolute;
-    top: 25%;
-    left:52rem;
+    font-size: 1.2vw;
+    top: 19%;
+    right: 35rem;
     color: #a387ea;
-    font-size: 20px;
+    
 }
 .event {
     position: absolute;
-    top: 25%;
-    left: 63rem;
+    font-size: 1.2vw;
+    top: 19%;
+    right: 29rem;
     color: #a387ea;
-    font-size: 20px;
+    
 }
 .game1 {
     position: absolute;
-    top: 25%;
-    left: 73rem;
+    font-size: 1.2vw;
+    top: 19%;
+    right: 23rem;
     color: #a387ea;
-    font-size: 20px;
+    
 }
 .game2 {
     position: absolute;
-    top: 25%;
-    left: 82rem;
+    font-size: 1.2vw;
+    top: 19%;
+    right: 16rem;
     color: #a387ea;
-    font-size: 20px;
+    
 }
 .download {
-    position: absolute;
-    top: 25%;
-    right: 7rem;
-    font-size: 20px;
+    position: absolute;  
+    font-size: 1.2vw;
+    top: 19%;
+    right: 8rem;
     color: #fff;
 } 
 .haikei {
     width: 100%;
   
 }
-.soul {
+.tamasi {
+    background: url(../img/Gbm9FFvbkAADwWn.jpg);
+    background-size: 100%;
     width: 100%;
-    top: 25px;
+    top: 50%;
+    left: 50%;
+    text-align: center;
 }
 .hai {
     position: absolute;
@@ -90,15 +101,18 @@ header{
 h2 {
     background: url(../img/haikei2.webp);
     background-attachment: fixed;
+    text-align: center;
 } 
 .god {
     max-width:35%;
-    padding-left: 750px;
+    /* padding-left: 750px; */
+    text-align: center;
 
 }
 .sito {
     max-width:35%;
-    padding-left: 750px;
+    /* padding-left: 750px; */
+    
 
 }
 
@@ -111,3 +125,6 @@ footer {
   text-align: center;
 }
 
+.copyringt {
+    padding: 50px;
+}
