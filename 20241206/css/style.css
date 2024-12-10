@@ -1,0 +1,179 @@
+@charset "utf-8";
+
+
+
+header{
+    position: fixed;
+    /* background:url(../img/タグ一覧.webp); */
+    /* background-size: 100%; */
+    /* background-attachment: fixed; */
+}
+.logo {
+    position: absolute;
+    width: auto;
+    height: 55%;
+    max-width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    left:1%;
+    top: 5%;
+    color: #a387ea;
+}
+.p {
+    width: 110%;
+}
+
+.down {
+    position: absolute;
+    width: 10%;
+    /* top: 50%; */
+    right: 0rem;
+    align-items: center;
+}
+
+.oo {
+    position: absolute;
+    gap: 40px;
+    color: #a387ea;
+    width: auto;
+    height: 25%;
+    /* max-width: 50%; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    left:20%;
+    top: 5%;
+    color: #a387ea;
+    font-size: 1.1vw;
+    top: 20%;
+}
+
+/* .home {
+    position: absolute;
+    width: auto;
+    height: 55%;
+    max-width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    left:30%;
+    top: 5%;
+    color: #a387ea;
+    
+}
+.chara {
+    position: absolute;
+    font-size: 1.2vw;
+    top: 19%;
+    right: 42rem;
+    color: #a387ea;
+    
+}
+.version {
+    position: absolute;
+    font-size: 1.2vw;
+    top: 19%;
+    right: 35rem;
+    color: #a387ea;
+    
+}
+.event {
+    position: absolute;
+    font-size: 1.2vw;
+    top: 19%;
+    right: 29rem;
+    color: #a387ea;
+    
+}
+.game1 {
+    position: absolute;
+    font-size: 1.2vw;
+    top: 19%;
+    right: 23rem;
+    color: #a387ea;
+    
+}
+.game2 {
+    position: absolute;
+    font-size: 1.2vw;
+    top: 19%;
+    right: 16rem;
+    color: #a387ea;
+    
+} */
+.download {
+    position: absolute;  
+    /* background: url(../img/ダウンロード.webp); */
+    /* background:fixed; */
+    border-radius: 25px;
+    border: 2px solid rgba(88, 118, 177, 0.50);
+    background: rgba(53, 78, 133, 0.50);
+    font-size: 1.1vw;
+    top: 20%;
+    right: 2%;
+    color: #fff;
+    padding: 1px 7px; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+} 
+.haikei {
+    width: 100%;
+  
+}
+.tamasi {
+    background: url(../img/Gbm9FFvbkAADwWn.jpg);
+    background-size: 100%;
+    width: 100%;
+    top: 50%;
+    left: 50%;
+    text-align: center;
+}
+.hai {
+    position: absolute;
+    min-width: 100%;
+    left: 10px;
+    top: 140px;
+}
+
+h2 {
+    background: url(../img/haikei2.webp);
+    background-attachment: fixed;
+    width: 100%;
+    text-align: center;
+} 
+.god {
+    max-width:35%;
+    /* padding-left: 750px; */
+    text-align: center;
+
+}
+.sito {
+    max-width:35%;
+    /* padding-left: 750px; */
+    
+
+}
+
+.cx {
+    margin-left: 30%;
+}
+
+.chaska,
+.xbox {
+    width: 30%;
+}
+
+footer {
+    background: #000;
+    color: #fff;
+}
+
+.f{
+  text-align: center;
+}
+
+.copyringt {
+    padding: 50px;
+}
