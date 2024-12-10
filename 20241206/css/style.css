@@ -155,14 +155,48 @@ h2 {
     
 
 }
+.eve2 {
+    color: #fff;
+    margin-top: 15%;
+    /* margin-right: 20%;
+    margin-left: 20%; */
+    border-top: 0.5px solid;
+    border-bottom: 0.5px solid;
+    margin-bottom: 8%;
+    padding: 1rem;
+    
+    
+}
 
 .cx {
-    margin-left: 30%;
+    padding-bottom: 10%;
+    gap: 5px;
+}
+.cx2 {
+    text-align: center;
+}
+.chaskaall {
+    /* margin-right: 5rem; */
 }
 
 .chaska,
 .xbox {
     width: 30%;
+    justify-content: center;
+}
+
+.chaska2,
+.xbox2  {
+    font-size: 16px;
+    color: aquamarine;
+}
+
+.chaska2 {
+    margin-right: 50%;
+    height: 25%;
+}
+.xbox2{
+    
 }
 
 footer {
